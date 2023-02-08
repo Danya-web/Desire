@@ -68,8 +68,6 @@
     margin-bottom: 22px;
     padding-left: 30px;
     display: inline-block;
-<<<<<<< HEAD
-=======
     position: relative;
     &::before{
       content: '';
@@ -80,7 +78,6 @@
       width: 16px;
       height: 12px;
     }
->>>>>>> 452a973 (finish footer)
   }
   &__form{
     display: flex;
@@ -111,14 +108,11 @@
     margin-left: 9px;
     cursor: pointer;
   }
-  &__social{
-<<<<<<< HEAD
-
-  } 
+  &__social{} 
   &__menu{  
     margin-right: 60px;
   }
-=======
+  &__social-menu{
     width: 125px;
     margin-right: auto;
     margin-left: 100px;
@@ -172,7 +166,6 @@
     margin-right: 60px;
     width: 125px;
   } 
->>>>>>> 452a973 (finish footer)
   &__copyright{
     background-color: $title;
     color:#A1A1A1;
@@ -180,5 +173,3 @@
     padding: 42px 0 41px;
   }
 }
-
-
